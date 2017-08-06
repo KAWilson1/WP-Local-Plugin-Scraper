@@ -1,0 +1,40 @@
+Plugin Name: Black Studio TinyMCE Widget
+Version: 2.3.2
+Author: Black Studio
+
+
+Plugin Name: Contact Form 7
+Author: Takayuki Miyoshi
+Version: 4.7
+
+
+Plugin Name: Easy Google Fonts
+Version: 1.4.2
+Author: Titanium Themes
+
+
+Plugin Name: Simple Custom CSS
+Author: John Regan, Danny Van Kooten
+Version: 3.3
+
+
+Plugin Name: Page Builder by SiteOrigin
+Version: 2.5.3
+Author: SiteOrigin
+
+
+Plugin Name: SiteOrigin Widgets Bundle
+Version: 1.8.6
+Author: SiteOrigin
+
+
+Plugin Name: Spacer
+Version: 3.0.4
+Author: Justin Saad
+
+
+Plugin Name: Title Remover
+Version: 1.0
+Author: Brittany Internet Services
+
+
